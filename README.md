@@ -39,4 +39,4 @@ Last I specify that user input will be stored in a variable called **"m"**. Once
 
 # What I learned
 
-I learned how to derfine & call variables, arrays, utilize new commands like "RANDOM", and customize output with colors
+I learned how to define & call variables, arrays, utilize new commands like "RANDOM", and customize output with colors
